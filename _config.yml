@@ -19,7 +19,7 @@ locale                   : "UTF-8" # "en-US"
 title                    : "qkrgusrb Github"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "qkrgusrb"
 description              : "An amazing website."
 url                      : "https://qkrgusrb.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
