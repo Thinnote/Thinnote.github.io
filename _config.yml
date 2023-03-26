@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "UTF-8" # "en-US"
-title                    : "qkrgusrb Github"
+title                    : "thinnote Github"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "qkrgusrb"
+name                     : "thonnote"
 description              : "An amazing website."
-url                      : "https://Thinnote.github.io"
+url                      : "https://thinnote.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gusrb 브구스르브"
+  name             : "thinnote 씬노트"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "Project Manager."
+  bio              : "Project Manager."
   location         : "Seoul"
   email            :
   links:
