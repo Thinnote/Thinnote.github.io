@@ -19,7 +19,7 @@ locale                   : "UTF-8" # "en-US"
 title                    : "thinnote Github"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "thonnote"
+name                     : "thnnote"
 description              : "An amazing website."
 url                      : "https://thinnote.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
